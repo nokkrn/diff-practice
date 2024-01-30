@@ -1,2 +1,2 @@
 # diff-practice
-mainブランチで変更
+rebaseプラクティスブランチで更新したもの
