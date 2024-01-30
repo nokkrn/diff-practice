@@ -1,2 +1,2 @@
 # diff-practice
-メインのもの（rebaseコンフリクtoyou）
+rebaseコンフリクト用
