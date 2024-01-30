@@ -1,2 +1,2 @@
 # diff-practice
-rebaseプラクティスブランチで更新したものdesu
+メインのもの（rebaseコンフリクtoyou）
