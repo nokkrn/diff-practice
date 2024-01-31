@@ -1,2 +1,2 @@
 # diff-practice
-stashコンフリ
+1st変更
