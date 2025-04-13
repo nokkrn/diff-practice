@@ -1,2 +1,2 @@
 # diff-practice
-main ブランチで更新 コンフリクト用
+rebase-practice コンフリクト記述
