@@ -1,2 +1,2 @@
 # diff-practice
-mergetoolで変更　メイン２
+mergetoolコンフリクト用　１
