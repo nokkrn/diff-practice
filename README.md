@@ -1,2 +1,2 @@
 # diff-practice
-mergetoolコンフリクト用　１
+rebase-practice ブランチで更新
