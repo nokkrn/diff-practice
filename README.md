@@ -1,2 +1,2 @@
 # diff-practice
-rebase-practice コンフリクト記述
+rebase用記載　ーぷｌｌ
